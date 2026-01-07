@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.9.18)  2 DEC 2025 11:22
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.9.18)  1 JAN 2026 22:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1016,7 +1016,12 @@ File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (d:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
 Library (tcolorbox): 'tcbposter.code.tex' version '6.2.0'
-))) (./hw2.aux)
+)) (d:/texlive/2024/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip94
+\thanksmargin=\skip95
+\droptitle=\skip96
+)) (./hw2.aux)
 \openout1 = `hw2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -1140,15 +1145,15 @@ Package hyperref Info: Link coloring ON on input line 7.
 \@outlinefile=\write4
 \openout4 = `hw2.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
  (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
  (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 9.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 8.
  (d:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
@@ -1169,10 +1174,10 @@ Package rerunfilecheck Info: File `hw2.out' has not changed.
 (rerunfilecheck)             Checksum: 471A3F5B1B6D0CB1A8AFFEBE5A370FDF;1054.
  ) 
 Here is how much of TeX's memory you used:
- 37854 strings out of 474773
- 837317 string characters out of 5761289
+ 37933 strings out of 474773
+ 838592 string characters out of 5761289
  1955842 words of memory out of 5000000
- 59343 multiletter control sequences out of 15000+600000
+ 59418 multiletter control sequences out of 15000+600000
  574305 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  96i,9n,102p,536b,744s stack positions out of 10000i,1000n,20000p,200000b,200000s
